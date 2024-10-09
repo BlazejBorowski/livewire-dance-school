@@ -1,7 +1,7 @@
 # livewire-dance-school
 
 ## Version
-v.1.0.0 (In Development)
+v1.0.0 (In Development)
 
 ## Description
 Template for dance school in livewire 3
